@@ -1,0 +1,58 @@
+﻿@model MVCPractices.WebUI.ViewModels.FeedbackViewModel
+
+@{
+    ViewBag.Title = "NewFeedback";
+}
+
+<h2>NewFeedback</h2>
+
+<div>
+
+    @using (Html.BeginForm("NewFeedback", "Feedback"))
+    {
+        <div class="form-group">
+            @Html.LabelFor(m=>m.ReferralSource, "Referral Source")
+            <label>
+                @Html.RadioButtonFor(m => m.ReferralSource, "TV") TV
+            </label>
+            <label>
+                @Html.RadioButtonFor(m => m.ReferralSource, "Internet") Internet
+            </label>
+            <label>
+                @Html.RadioButtonFor(m => m.ReferralSource, "Book") Book
+            </label>
+            @Html.ValidationMessageFor(m => m.ReferralSource)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m=>m.Comments, "Comments")
+            @Html.TextAreaFor(m => m.Comments, 5, 1, new {@class="form-control"})
+            @Html.ValidationMessageFor(m => m.Comments)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.OtherSource, "Other Source")
+            @Html.TextBoxFor(m=>m.OtherSource, new {@class="form-control"})
+            @Html.ValidationMessageFor(m=>m.OtherSource)
+
+        </div>
+
+        <div class="form-group">
+            @Html.CheckBoxFor(m => m.IsAgreed) @Html.LabelFor(m => m.IsAgreed, "Agree")
+            @Html.ValidationMessageFor(m => m.IsAgreed)
+        </div>
+
+        
+        
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    }
+    
+    
+    
+    @Html.ValidationSummary("Error Summary", new {@class="alert alert-danger" })
+    
+
+</div>
