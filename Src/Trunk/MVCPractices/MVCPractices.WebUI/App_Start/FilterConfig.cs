@@ -1,5 +1,6 @@
 ﻿using System.Web;
 using System.Web.Mvc;
+using MVCPractices.WebUI.Infrastructure;
 
 namespace MVCPractices.WebUI
 {
@@ -7,7 +8,9 @@ namespace MVCPractices.WebUI
     {
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
-            filters.Add(new HandleErrorAttribute());
+            filters.Add(new GlobalExceptionFilter());
+            //filters.Add(new HandleErrorAttribute());
+
         }
     }
 }

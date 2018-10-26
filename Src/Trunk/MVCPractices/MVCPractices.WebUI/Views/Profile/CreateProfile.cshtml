@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "CreateProfile";
+}
+
+<h2>CreateProfile</h2>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        Create Profile
+    </div>
+    <div class="panel-body">
+        @using (Html.BeginForm("SaveProfile", "Profile"))
+        {
+            <button type="submit" class="btn btn-primary">Submit</button>
+        }
+
+    </div>
+
+</div>

@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "NewMail";
+}
+
+<h2>NewMail</h2>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        Enter Mail
+    </div>
+    <div class="panel-body">
+        @using (Html.BeginForm("SaveMail", "Mail"))
+        {
+            <button type="submit" class="btn btn-primary">Submit</button>
+        }
+
+    </div>
+
+</div>

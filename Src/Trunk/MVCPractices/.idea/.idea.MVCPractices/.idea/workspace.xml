@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f134eaf8-6989-47e8-8f8c-9e81cb803e2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MVCPractices/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MVCPractices/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MVCPractices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MVCPractices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MVCPractices/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MVCPractices.WebUI/Controllers/ErrorController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MVCPractices/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MVCPractices/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MVCPractices/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MVCPractices/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MVCPractices/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MVCPractices/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MVCPractices/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MVCPractices/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/Global.asax.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/Global.asax.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/MVCPractices.WebUI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/MVCPractices.WebUI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/MVCPractices.WebUI.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/MVCPractices.WebUI.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/Web.config" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/Web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/bin/MVCPractices.WebUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/bin/MVCPractices.WebUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/bin/MVCPractices.WebUI.dll.config" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/bin/MVCPractices.WebUI.dll.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/bin/MVCPractices.WebUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/bin/MVCPractices.WebUI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/MVCPractices.WebUI.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/MVCPractices.WebUI.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/MVCPractices.WebUI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/MVCPractices.WebUI.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/MVCPractices.WebUI.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/MVCPractices.WebUI.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/MVCPractices.WebUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/MVCPractices.WebUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/MVCPractices.WebUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/obj/Debug/MVCPractices.WebUI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.WebUI/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.WebUI/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCPractices.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MVCPractices.sln" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="790727290">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="config" value="1" />
+          <entry key="cs" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="5" />
+          <entry key="Config" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="499" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="499" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVCPractices.WebUI/Infrastructure/GlobalExceptionFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+              <folding>
+                <marker date="1540567106662" expanded="true" signature="6:78" ph="..." />
+                <marker date="1540567106662" expanded="true" signature="123:1557" ph="{...}" />
+                <marker date="1540567106662" expanded="true" signature="200:1555" ph="{...}" />
+                <marker date="1540567106662" expanded="true" signature="374:1311" ph="{...}" />
+                <marker date="1540567106662" expanded="true" signature="1413:1531" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MVCPractices.WebUI/Controllers/ErrorController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <marker date="1540567106686" expanded="true" signature="63:223" ph="{...}" />
+                <marker date="1540567106686" expanded="true" signature="111:221" ph="{...}" />
+                <marker date="1540567106686" expanded="true" signature="168:215" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVCPractices.WebUI/Infrastructure/WorkflowFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="67" column="9" selection-start-line="64" selection-start-column="8" selection-end-line="67" selection-end-column="9" />
+              <folding>
+                <marker date="1540395561346" expanded="false" signature="6:154" ph="..." />
+                <marker date="1540395561346" expanded="true" signature="199:2788" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="266:2786" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="571:1982" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="687:956" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="768:925" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="973:1243" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="1029:1212" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="1322:1971" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="1379:1940" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="2067:2185" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="2260:2780" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="2503:2770" ph="{...}" />
+                <marker date="1540395561346" expanded="true" signature="2559:2739" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MVCPractices.WebUI/Infrastructure/WorkflowFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCPractices.WebUI/Controllers/ErrorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCPractices.WebUI/Controllers/FeedbackController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCPractices.WebUI/Infrastructure/GlobalExceptionFilter.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MVCPractices.WebUI/Infrastructure/WorkflowFilter.cs" />
+        <option value="$PROJECT_DIR$/MVCPractices.WebUI/Infrastructure/GlobalExceptionFilter.cs" />
+        <option value="$PROJECT_DIR$/MVCPractices.WebUI/Controllers/ErrorController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MVCPractices" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MVCPractices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MVCPractices.WebUI" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MVCPractices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MVCPractices.WebUI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MVCPractices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MVCPractices.WebUI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Helpers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MVCPractices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MVCPractices.WebUI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="C:/Program Files (x86)/IIS Express/iisexpress.exe" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;/config:$PROJECT_DIR$/.idea/config/applicationhost.config&quot; /site:MVCPractices.WebUI /apppool:Clr4IntegratedAppPool" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/IIS Express" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MVCPractices.WebUI/MVCPractices.WebUI.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <browser start="true" url="http://localhost:52458/" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f134eaf8-6989-47e8-8f8c-9e81cb803e2f" name="Default Changelist" comment="" />
+      <created>1540312493559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540312493559</updated>
+      <workItem from="1540312495345" duration="274000" />
+      <workItem from="1540563798769" duration="2770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3044000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17004265" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MVCPractices.WebUI/Controllers/FeedbackController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1540311620959" expanded="false" signature="6:58" ph="..." />
+            <marker date="1540311620959" expanded="true" signature="151:511" ph="{...}" />
+            <marker date="1540311620959" expanded="true" signature="202:249" ph="{...}" />
+            <marker date="1540311620959" expanded="true" signature="334:494" ph="{...}" />
+            <marker date="1540311620959" expanded="true" signature="381:456" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCPractices.WebUI/NLog.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCPractices.WebUI/Infrastructure/WorkflowFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="67" column="9" selection-start-line="64" selection-start-column="8" selection-end-line="67" selection-end-column="9" />
+          <folding>
+            <marker date="1540395561346" expanded="false" signature="6:154" ph="..." />
+            <marker date="1540395561346" expanded="true" signature="199:2788" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="266:2786" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="571:1982" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="687:956" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="768:925" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="973:1243" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="1029:1212" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="1322:1971" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="1379:1940" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="2067:2185" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="2260:2780" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="2503:2770" ph="{...}" />
+            <marker date="1540395561346" expanded="true" signature="2559:2739" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCPractices.WebUI/Infrastructure/GlobalExceptionFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <marker date="1540567106662" expanded="true" signature="6:78" ph="..." />
+            <marker date="1540567106662" expanded="true" signature="123:1557" ph="{...}" />
+            <marker date="1540567106662" expanded="true" signature="200:1555" ph="{...}" />
+            <marker date="1540567106662" expanded="true" signature="374:1311" ph="{...}" />
+            <marker date="1540567106662" expanded="true" signature="1413:1531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCPractices.WebUI/Controllers/ErrorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <marker date="1540567106686" expanded="true" signature="63:223" ph="{...}" />
+            <marker date="1540567106686" expanded="true" signature="111:221" ph="{...}" />
+            <marker date="1540567106686" expanded="true" signature="168:215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

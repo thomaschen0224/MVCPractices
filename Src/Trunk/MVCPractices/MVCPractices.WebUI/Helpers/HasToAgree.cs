@@ -9,5 +9,7 @@ namespace MVCPractices.WebUI.Helpers
             var agreed = value is bool b && b;
             return agreed;
         }
+
+        
     }
 }

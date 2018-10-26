@@ -1,0 +1,2 @@
+2018-10-26 11:39:44.1726 | INFO | MVCPractices.WebUI.Infrastructure.ControllerExceptionFilter | This is handled by ControllerExceptoinFilter
+2018-10-26 11:39:44.2775 | INFO | MVCPractices.WebUI.Infrastructure.ControllerExceptionFilter | Input string was not in a correct format.

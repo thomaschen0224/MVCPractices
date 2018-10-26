@@ -1,0 +1,11 @@
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Repositories.dll
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Repositories.pdb
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.csprojAssemblyReference.cache
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.csproj.CoreCompileInputs.cache
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.dll
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.pdb
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Contracts.dll
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Models.dll
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Contracts.pdb
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Models.pdb
+C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.csproj.CopyComplete
