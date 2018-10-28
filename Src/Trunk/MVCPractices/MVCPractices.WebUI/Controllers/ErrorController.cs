@@ -9,5 +9,15 @@ namespace MVCPractices.WebUI.Controllers
         {
             return View();
         }
+
+
+        public ActionResult UnAuthorized()
+        {
+            return View();
+        }
+
+
+
+
     }
 }

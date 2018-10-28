@@ -44,5 +44,11 @@
     <Compile Include="CurrentUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MVCPractices.SharedKernel\MVCPractices.SharedKernel.csproj">
+      <Project>{f88ef3b8-11e4-4c54-b739-afbb4ef87508}</Project>
+      <Name>MVCPractices.SharedKernel</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

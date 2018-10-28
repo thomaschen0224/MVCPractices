@@ -167,22 +167,36 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AddressController.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\ErrorController.cs" />
     <Compile Include="Controllers\FeedbackController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\MailController.cs" />
+    <Compile Include="Controllers\PatientController.cs" />
     <Compile Include="Controllers\ProfileController.cs" />
+    <Compile Include="CustomActionResultHelpers\CustomJsonResult.cs" />
+    <Compile Include="CustomAuthentication\AuthorizedRole.cs" />
+    <Compile Include="CustomAuthentication\BasicAuthen.cs" />
+    <Compile Include="CustomModelBinders\XMLModelBinder.cs" />
+    <Compile Include="CustomModelBinders\XMLModelBinderProvider.cs" />
+    <Compile Include="CustomValueProviders\HttpHeaderValueProvider.cs" />
+    <Compile Include="CustomValueProviders\HttpHeaderValueProviderFactory.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\CustomActionResultHelper.cs" />
     <Compile Include="Helpers\HasToAgree.cs" />
     <Compile Include="Infrastructure\ControllerExceptionFilter.cs" />
     <Compile Include="Infrastructure\GlobalExceptionFilter.cs" />
     <Compile Include="Infrastructure\ThemeViewEngine.cs" />
     <Compile Include="Infrastructure\WorkflowFilter.cs" />
+    <Compile Include="Models\HttpHeaderData.cs" />
+    <Compile Include="Models\PatientModel.cs" />
     <Compile Include="NinjectBindings\BindingModules.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\FeedbackViewModel.cs" />
+    <Compile Include="ViewModels\LoginViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
@@ -239,10 +253,14 @@
     <Content Include="Views\Error\Index.cshtml" />
     <Content Include="Views\Home\GetError.cshtml" />
     <Content Include="Views\Profile\GetError.cshtml" />
+    <Content Include="Views\Patient\GetHttpHeaders.cshtml" />
+    <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Views\Error\UnAuthorized.cshtml" />
+    <Content Include="Views\Admin\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

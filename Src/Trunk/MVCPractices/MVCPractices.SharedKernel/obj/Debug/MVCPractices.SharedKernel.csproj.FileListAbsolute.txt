@@ -3,3 +3,9 @@ C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.S
 C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.SharedKernel\obj\Debug\MVCPractices.SharedKernel.csproj.CoreCompileInputs.cache
 C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.SharedKernel\obj\Debug\MVCPractices.SharedKernel.dll
 C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.SharedKernel\obj\Debug\MVCPractices.SharedKernel.pdb
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.SharedKernel\bin\Debug\MVCPractices.SharedKernel.dll
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.SharedKernel\bin\Debug\MVCPractices.SharedKernel.pdb
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.SharedKernel\obj\Debug\MVCPractices.SharedKernel.csprojAssemblyReference.cache
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.SharedKernel\obj\Debug\MVCPractices.SharedKernel.csproj.CoreCompileInputs.cache
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.SharedKernel\obj\Debug\MVCPractices.SharedKernel.dll
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.SharedKernel\obj\Debug\MVCPractices.SharedKernel.pdb

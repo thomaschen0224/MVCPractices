@@ -4,3 +4,12 @@ C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.M
 C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\obj\Debug\MVCPractices.Models.csproj.CoreCompileInputs.cache
 C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\obj\Debug\MVCPractices.Models.dll
 C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\obj\Debug\MVCPractices.Models.pdb
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\bin\Debug\MVCPractices.Models.dll
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\bin\Debug\MVCPractices.Models.pdb
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\obj\Debug\MVCPractices.Models.csprojAssemblyReference.cache
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\obj\Debug\MVCPractices.Models.csproj.CoreCompileInputs.cache
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\obj\Debug\MVCPractices.Models.dll
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\obj\Debug\MVCPractices.Models.pdb
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\bin\Debug\MVCPractices.SharedKernel.dll
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\bin\Debug\MVCPractices.SharedKernel.pdb
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Models\obj\Debug\MVCPractices.Models.csproj.CopyComplete

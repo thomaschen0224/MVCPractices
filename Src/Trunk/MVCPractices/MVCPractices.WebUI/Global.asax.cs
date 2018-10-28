@@ -6,6 +6,8 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using MVCPractices.WebUI.CustomModelBinders;
+using MVCPractices.WebUI.CustomValueProviders;
 using MVCPractices.WebUI.Infrastructure;
 using MVCPractices.WebUI.NinjectBindings;
 using Ninject;
@@ -21,6 +23,9 @@ namespace MVCPractices.WebUI
 
         protected override void OnApplicationStarted()
         {
+            
+            base.OnApplicationStarted();
+
 
             if (!string.IsNullOrEmpty(ConfigurationManager.AppSettings["ActiveTheme"]))
             {
@@ -28,7 +33,8 @@ namespace MVCPractices.WebUI
                 ViewEngines.Engines.Insert(0, new ThemeViewEngine(activeTheme));
             }
 
-            base.OnApplicationStarted();
+            ModelBinderProviders.BinderProviders.Insert(0, new XMLModelBinderProvider());
+            ValueProviderFactories.Factories.Insert(0, new HttpHeaderValueProviderFactory());
 
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);

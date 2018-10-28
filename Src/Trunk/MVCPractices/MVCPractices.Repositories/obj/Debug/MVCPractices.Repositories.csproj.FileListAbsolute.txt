@@ -9,3 +9,16 @@ C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.R
 C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Contracts.pdb
 C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Models.pdb
 C:\00 - My Practcies Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.csproj.CopyComplete
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Repositories.dll
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Repositories.pdb
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Contracts.dll
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Models.dll
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Contracts.pdb
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.Models.pdb
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.csprojAssemblyReference.cache
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.csproj.CoreCompileInputs.cache
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.csproj.CopyComplete
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.dll
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\obj\Debug\MVCPractices.Repositories.pdb
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.SharedKernel.dll
+C:\eIVF Projects\MVCPractices\Src\Trunk\MVCPractices\MVCPractices.Repositories\bin\Debug\MVCPractices.SharedKernel.pdb
