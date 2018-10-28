@@ -1,0 +1,12 @@
+2018-10-28 12:52:10.8387 | INFO | MVCPractices.WebUI.Infrastructure.ControllerExceptionFilter | This is handled by ControllerExceptoinFilter
+2018-10-28 12:52:10.8697 | INFO | MVCPractices.WebUI.Infrastructure.ControllerExceptionFilter | The view 'insurances' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Themes/Custom/profile/insurances.cshtml
+~/Views/Themes/Custom/Shared/insurances.cshtml
+~/Views/profile/insurances.aspx
+~/Views/profile/insurances.ascx
+~/Views/Shared/insurances.aspx
+~/Views/Shared/insurances.ascx
+~/Views/profile/insurances.cshtml
+~/Views/profile/insurances.vbhtml
+~/Views/Shared/insurances.cshtml
+~/Views/Shared/insurances.vbhtml

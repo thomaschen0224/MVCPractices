@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using MVCPractices.WebUI.CustomSelectorAttributes;
 using MVCPractices.WebUI.Infrastructure;
 
 namespace MVCPractices.WebUI.Controllers
@@ -34,6 +35,23 @@ namespace MVCPractices.WebUI.Controllers
 
             return View();
 
+        }
+
+        [ActionName("Insurances")]
+        public ActionResult GetInsurances()
+        {
+            return View("GetInsurances");
+        }
+
+
+        [ForMobile]
+        public ActionResult GoInsurance()
+        {
+
+            // This demonstrates that you can custom ActionMethodSelectorAttribute
+            // 
+
+            return View();
         }
 
 

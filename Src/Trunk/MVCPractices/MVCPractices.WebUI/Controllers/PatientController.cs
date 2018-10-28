@@ -8,7 +8,7 @@ using MVCPractices.WebUI.Models;
 
 namespace MVCPractices.WebUI.Controllers
 {
-    public class PatientController : Controller
+    public class PatientController : BaseController
     {
 
 
@@ -60,7 +60,7 @@ namespace MVCPractices.WebUI.Controllers
             patient.LastName = "Chen";
             patient.PatientId = 1234;
 
-            return new CustomJsonResult(patient);
+            return CustomJsonResult(patient);
 
 
         }
